@@ -14,17 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div align="center">
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e1b4b&height=220&section=header&text=Soraya%20Balochi&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%" />
-<a  href="https://git.io/typing-svg">
-</a>
-</div>
-
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=180&color=E8B9F0&text=SORAYA&fontSize=70&fontColor=DDA8E9&animation=fadeIn&fontAlignY=50&desc=somewhere%20between%20code%20and%20the%20stars&descSize=15&descAlignY=75" width="100%"/>
@@ -37,7 +26,6 @@ Here are some ideas to get you started:
 
 ---
 
-### ☄️ About my universe
 
 
 <div align="center">
@@ -69,6 +57,41 @@ Here are some ideas to get you started:
 *made of stardust & unfinished projects*
 
     
+
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=220&color=0D0618&text=SORAYA&fontSize=75&fontColor=EBC6FF&animation=fadeIn&fontAlignY=48&desc=lost%20somewhere%20in%20the%20universe&descSize=15&descAlignY=72" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=16&duration=1800&pause=600&color=E8B9F0&center=true&vCenter=true&width=500&lines=%E2%9C%A7+%E2%80%A2+%E2%9C%A6+%E2%80%A2+%E2%9C%A7+%E2%80%A2+%E2%9C%A6;dreaming+among+the+stars;coding+my+own+universe;%E2%9C%A7+%E2%80%A2+%E2%9C%A6+%E2%80%A2+%E2%9C%A7+%E2%80%A2+%E2%9C%A6" />
+
+<br>
+
+<sub>✦ computer engineering student ✦</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode&theme=dark"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sorayaua&bg_color=080611&color=E4C2F5&line=B987D8&point=F5D6EB&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<sub>✧ somewhere between stardust and source code ✧</sub>
+
+</div>
+
 
 
 
