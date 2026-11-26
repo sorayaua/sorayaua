@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 +<div align='centeri›
 
 +
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e1b4b&height=220&section=header&text=Sina%20Shojaeian&fontSize=50&fontColor=ffffff&animation=t
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e1b4b&height=220&section=header&text=Soraya%20Shojaeian&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%" />
 
 
 
