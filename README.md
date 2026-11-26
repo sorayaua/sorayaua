@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+
+# 𝑺𝒐𝒓𝒂𝒚𝒂
+
+### Computer Engineering Student
+
+`Python` · `C++` · `Learning every day`
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=Hello+World!;Computer+Engineering+Student;Building+my+future+with+code." />
+
+</div>
+
+---
+
+### `01` — About me
+
+```python
+class Soraya:
+    field = "Computer Engineering"
+    languages = ["Python", "C++"]
+    currently_learning = ["Algorithms", "Git", "Computer Architecture"]
+
+    motto = "Learn, build, repeat."
