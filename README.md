@@ -56,5 +56,94 @@ Here are some ideas to get you started:
 
 
 
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  margin: 0;
+  overflow: hidden;
+  background: #0c0711;
+}
+
+#heart-container {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.heart {
+  position: absolute;
+  color: #ff8fbd;
+  animation: floatHeart linear infinite;
+  filter: drop-shadow(0 0 8px #f28bb9);
+  opacity: 0;
+}
+
+@keyframes floatHeart {
+  0% {
+    transform: translateY(20px) scale(.5);
+    opacity: 0;
+  }
+
+  15% {
+    opacity: 1;
+  }
+
+  40% {
+    transform: translateY(-30px) scale(1.3);
+  }
+
+  70% {
+    transform: translateY(-100px) scale(.8);
+    opacity: .8;
+  }
+
+  100% {
+    transform: translateY(-220px) scale(1.2);
+    opacity: 0;
+  }
+}
+</style>
+</head>
+
+<body>
+<div id="heart-container"></div>
+
+<script>
+const container = document.getElementById("heart-container");
+
+const colors = [
+  "#ffc1dc",
+  "#ff8fbd",
+  "#ffb6d5",
+  "#f48fca",
+  "#ffe0ed",
+  "#e9a6ff"
+];
+
+for (let i = 0; i < 45; i++) {
+  const heart = document.createElement("div");
+
+  heart.className = "heart";
+  heart.innerHTML = "♥";
+
+  heart.style.left = Math.random() * 100 + "%";
+  heart.style.top = (40 + Math.random() * 60) + "%";
+  heart.style.fontSize = (8 + Math.random() * 35) + "px";
+  heart.style.color =
+    colors[Math.floor(Math.random() * colors.length)];
+
+  heart.style.animationDuration = (2 + Math.random() * 5) + "s";
+  heart.style.animationDelay = (Math.random() * 5) + "s";
+
+  container.appendChild(heart);
+}
+</script>
+</body>
+</html>
+
 
 
