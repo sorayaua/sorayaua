@@ -54,33 +54,6 @@ Here are some ideas to get you started:
 
 ✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ
 
-*made of stardust & unfinished projects*
-
-    
-
-
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=220&color=0D0618&text=SORAYA&fontSize=75&fontColor=EBC6FF&animation=fadeIn&fontAlignY=48&desc=lost%20somewhere%20in%20the%20universe&descSize=15&descAlignY=72" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=16&duration=1800&pause=600&color=E8B9F0&center=true&vCenter=true&width=500&lines=%E2%9C%A7+%E2%80%A2+%E2%9C%A6+%E2%80%A2+%E2%9C%A7+%E2%80%A2+%E2%9C%A6;dreaming+among+the+stars;coding+my+own+universe;%E2%9C%A7+%E2%80%A2+%E2%9C%A6+%E2%80%A2+%E2%9C%A7+%E2%80%A2+%E2%9C%A6" />
-
-<br>
-
-<sub>✦ computer engineering student ✦</sub>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode&theme=dark"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sorayaua&bg_
 
 
 
