@@ -14,6 +14,43 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
++<div align='centeri›
+
++
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e1b4b&height=220&section=header&text=Sina%20Shojaeian&fontSize=50&fontColor=ffffff&animation=t
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div align="center">
 
 # 𝑺𝒐𝒓𝒂𝒚𝒂
