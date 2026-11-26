@@ -39,15 +39,6 @@ Here are some ideas to get you started:
 
 ### ☄️ About my universe
 
-```python
-class Soraya:
-    major = "Computer Engineering"
-    languages = ["Python", "C++"]
-    currently_exploring = ["Algorithms", "Git", "Computer Architecture"]
-    universe = "endless possibilities"
-```
-
----
 
 <div align="center">
 
@@ -77,7 +68,7 @@ class Soraya:
 
 *made of stardust & unfinished projects*
 
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=0D0B16&height=100&section=footer" 
+    
 
 
 
