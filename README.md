@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
++
 <div align="center">
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e1b4b&height=220&section=header&text=Soraya%20Balochi&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%" />
-<a href="https://git.io/typing-svg">
+<a  href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student; Full-Stack+Developer+(Next.js+%2B+NestJS)
-Embedded+Systems+%26+Microcontrollers;AI+%26+Information+Retrieval+Enthusiast" alt="Typing SVG" />
+Embedded+Systems+%26+Microcontrollers;AI+%26+Information+Retrieval+Enthusiast" alt="Typing SVG"/>
 </a>
 </div>
 
