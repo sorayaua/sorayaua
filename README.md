@@ -56,94 +56,35 @@ Here are some ideas to get you started:
 
 
 
-<!DOCTYPE html>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-body {
-  margin: 0;
-  overflow: hidden;
-  background: #0c0711;
-}
+<div align="center">
 
-#heart-container {
-  position: relative;
-  width: 100vw;
-  height: 100vh;
-  overflow: hidden;
-}
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=25&duration=2000&pause=500&color=FF69B4&center=true&vCenter=true&width=500&lines=Welcome+to+Soraya's+Galaxy+%E2%99%A1" />
 
-.heart {
-  position: absolute;
-  color: #ff8fbd;
-  animation: floatHeart linear infinite;
-  filter: drop-shadow(0 0 8px #f28bb9);
-  opacity: 0;
-}
+<br>
 
-@keyframes floatHeart {
-  0% {
-    transform: translateY(20px) scale(.5);
-    opacity: 0;
-  }
+<img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="100">
 
-  15% {
-    opacity: 1;
-  }
+<p>
+<font color="#ff69b4">
+♡ ₊˚ ✧ ⋆｡˚ ✩ ♡ ⋆｡˚ ✧ ₊˚ ♡
+</font>
+</p>
 
-  40% {
-    transform: translateY(-30px) scale(1.3);
-  }
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=18&duration=1500&pause=300&color=FFB6D9&center=true&vCenter=true&width=450&lines=%E2%9C%A8+floating+in+my+own+universe+%E2%9C%A8;%E2%99%A1+coding+under+the+stars+%E2%99%A1;%E2%9C%A7+made+of+dreams+and+stardust+%E2%9C%A7" />
 
-  70% {
-    transform: translateY(-100px) scale(.8);
-    opacity: .8;
-  }
+<br><br>
 
-  100% {
-    transform: translateY(-220px) scale(1.2);
-    opacity: 0;
-  }
-}
-</style>
-</head>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0d0018&height=120&section=header&text=୨୧%20Soraya%20୨୧&fontColor=ffb6d9&fontSize=35&animation=twinkling" width="100%">
 
-<body>
-<div id="heart-container"></div>
+<br>
 
-<script>
-const container = document.getElementById("heart-container");
+<img src="https://img.shields.io/badge/♡-pink-ff69b4?style=for-the-badge">
+<img src="https://img.shields.io/badge/✦-stardust-c084fc?style=for-the-badge">
+<img src="https://img.shields.io/badge/☾-dreamer-9370db?style=for-the-badge">
 
-const colors = [
-  "#ffc1dc",
-  "#ff8fbd",
-  "#ffb6d5",
-  "#f48fca",
-  "#ffe0ed",
-  "#e9a6ff"
-];
+<br><br>
 
-for (let i = 0; i < 45; i++) {
-  const heart = document.createElement("div");
-
-  heart.className = "heart";
-  heart.innerHTML = "♥";
-
-  heart.style.left = Math.random() * 100 + "%";
-  heart.style.top = (40 + Math.random() * 60) + "%";
-  heart.style.fontSize = (8 + Math.random() * 35) + "px";
-  heart.style.color =
-    colors[Math.floor(Math.random() * colors.length)];
-
-  heart.style.animationDuration = (2 + Math.random() * 5) + "s";
-  heart.style.animationDelay = (Math.random() * 5) + "s";
-
-  container.appendChild(heart);
-}
-</script>
-</body>
-</html>
+</div>
 
 
 
