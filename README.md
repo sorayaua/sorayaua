@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-+<div align="center">
+<div align="center">
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e1b4b&height=220&section=header&text=Soraya%20Balochi&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%" />
