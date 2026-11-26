@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 Embedded+Systems+%26+Microcontrollers;AI+%26+Information+Retrieval+Enthusiast" alt="Typing SVG" />
 
 
+</a>
+</difv>
+
 
 
 
