@@ -57,9 +57,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorayaua&layout=compact&theme=rose&hide_border=true&langs_count=8&title_color=FF8FAB&text_color=8A4F5E&bg_color=FFF0F4" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sorayaua&theme=rose&hide_border=true&background=FFF0F4&ring=FF8FAB&fire=FF8FAB&currStreakLabel=8A4F5E" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sorayaua&theme=rose&hide_border=true&bg_color=FFF0F4&color=FF8FAB&line=FF8FAB&point=8A4F5E" />
