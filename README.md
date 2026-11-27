@@ -1,4 +1,30 @@
-<!-- ═══════════ قلب‌های صورتی متحرک ═══════════ -->
+<!-- ═══════════ ۱. موج صورتی ═══════════ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC2D1&height=120&section=header&text=Welcome&fontSize=30&fontColor=8A4F5E" />
+</div>
+
+<!-- ═══════════ ۲. اسم: Soraya Balochi ═══════════ -->
+<h1 align="center">Soraya Balochi</h1>
+
+<!-- ═══════════ ۳. متن خوش‌آمد و معرفی (انگلیسی) ═══════════ -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF8FAB&center=true&vCenter=true&width=520&lines=Welcome+to+my+profile+%F0%9F%91%8B;Computer+Engineering+Student;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  Computer Engineering Student · Always Learning Something New 💗
+</p>
+
+<!-- ═══════════ ۴. راه‌های ارتباطی ═══════════ -->
+<p align="center">
+  <a href="https://t.me/sorayaua"><img src="https://img.shields.io/badge/Telegram-FFC2D1?style=for-the-badge&logo=telegram&logoColor=8A4F5E"></a>
+  <a href="https://linkedin.com/in/sorayaua"><img src="https://img.shields.io/badge/LinkedIn-FF8FAB?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:sorayabalochibts@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFB3C6?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+<!-- ═══════════ ۵. قلب‌های متحرک رندوم (وسط‌چین) ═══════════ -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/sorayaua/sorayaua/main/assets/heart.svg" width="30" />
   <img src="https://raw.githubusercontent.com/sorayaua/sorayaua/main/assets/heart.svg" width="20" />
@@ -7,53 +33,10 @@
   <img src="https://raw.githubusercontent.com/sorayaua/sorayaua/main/assets/heart.svg" width="28" />
 </div>
 
-<!-- ═══════════ اسم: ثریا ═══════════ -->
-<h1 align="center">🌸 ثریا 🌸</h1>
-
-<!-- ═══════════ بنر خوش‌آمد ═══════════ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC2D1&height=120&section=header&text=Welcome%20to%20my%20profile&fontSize=28&fontColor=8A4F5E" />
-</div>
-
-<!-- ═══════════ لینک تیبل (پروژه) ═══════════ -->
-<table align="center" style="border-collapse: separate; border-spacing: 0 10px; width: 100%; max-width: 600px;">
-  <tr>
-    <td style="padding: 15px; background: #FFF0F4; border-radius: 12px; border: 1.5px solid #FFC2D1; text-align: center;">
-      <a href="https://sorayaua.github.io/hamkelas-safar/" target="_blank" style="display: inline-block; padding: 10px 25px; background: linear-gradient(135deg, #FF8FAB, #FFB3C6); color: white; text-decoration: none; border-radius: 25px; font-weight: bold; font-size: 15px;">
-        🚀 مشاهده سایت هم‌کلاس سفر
-      </a>
-    </td>
-  </tr>
-</table>
-
 ---
 
-<!-- ═══════════ درباره من ═══════════ -->
-## 🌷 درباره من
-
-دانشجوی مهندسی کامپیوتر، علاقه‌مند به یادگیری و ساختن پروژه‌های واقعی. همیشه در حال یادگیری چیزهای جدید و دوست دارم کارهایی بسازم که به درد بقیه بخوره. 💗
-
----
-
-<!-- ═══════════ ابوت می (متحرک) ═══════════ -->
-## 💗 درباره من (About Me)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF8FAB&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Always+Learning+Something+New;Love+Coding+%26+Building+Things" alt="Typing SVG" />
-
----
-
-<!-- ═══════════ پروژه ═══════════ -->
-## 🚀 پروژه‌ها
-
-### 🌐 هم‌کلاس سفر (Hamkelas Safar)
-یک وب‌سایت برای هماهنگی و اشتراک‌گذاری سفرهای هم‌کلاسی‌ها. هدفش اینه که هم‌کلاسی‌ها راحت‌تر بتونن برای سفرهای گروهی برنامه‌ریزی کنن.
-
-🔗 [مشاهده سایت](https://sorayaua.github.io/hamkelas-safar/)
-
----
-
-<!-- ═══════════ تکنولوژی‌ها (فقط بلدها) ═══════════ -->
-## 🛠 تکنولوژی‌هایی که بلدم
+<!-- ═══════════ ۶. زبان‌هایی که باهاشون کد می‌نویسم ═══════════ -->
+## 🛠 Languages I Code With
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,py,cpp,git,github,vscode&perline=8" />
@@ -61,30 +44,46 @@
 
 ---
 
-<!-- ═══════════ دستاوردها با کادر شفاف ═══════════ -->
-## 🏆 دستاوردها
+<!-- ═══════════ ۷. پروژه: هم‌کلاس سفر ═══════════ -->
+## 🚀 Hamkelas Safar
 
-<table align="center" style="border-collapse: separate; border-spacing: 10px;">
-  <tr>
-    <td style="padding: 15px; background: rgba(255, 194, 209, 0.25); border-radius: 12px; border: 1px solid #FFC2D1; text-align: center; color: #8A4F5E;">
-      🎓<br/><b>دانشجو</b><br/><small>مهندسی کامپیوتر</small>
-    </td>
-    <td style="padding: 15px; background: rgba(255, 194, 209, 0.25); border-radius: 12px; border: 1px solid #FFC2D1; text-align: center; color: #8A4F5E;">
-      💻<br/><b>پروژه</b><br/><small>هم‌کلاس سفر</small>
-    </td>
-    <td style="padding: 15px; background: rgba(255, 194, 209, 0.25); border-radius: 12px; border: 1px solid #FFC2D1; text-align: center; color: #8A4F5E;">
-      🌱<br/><b>یادگیری</b><br/><small>همیشه در حال رشد</small>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://sorayaua.github.io/hamkelas-safar/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_View_Site-FF8FAB?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  یک وب‌سایت برای هماهنگی و برنامه‌ریزی سفرهای گروهی هم‌کلاسی‌ها. 💗
+</p>
 
 ---
 
-<!-- ═══════════ پایان ═══════════ -->
+<!-- ═══════════ ۸. استاتوس و فعالیت گیت‌هاب ═══════════ -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sorayaua&show_icons=true&theme=rose&hide_border=true&include_all_commits=true&count_private=true&title_color=FF8FAB&icon_color=FF8FAB&text_color=8A4F5E&bg_color=FFF0F4" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorayaua&layout=compact&theme=rose&hide_border=true&langs_count=8&title_color=FF8FAB&text_color=8A4F5E&bg_color=FFF0F4" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sorayaua&theme=rose&hide_border=true&background=FFF0F4&ring=FF8FAB&fire=FF8FAB&currStreakLabel=8A4F5E" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sorayaua&theme=rose&hide_border=true&bg_color=FFF0F4&color=FF8FAB&line=FF8FAB&point=8A4F5E" />
+</p>
+
+---
+
+<!-- ═══════════ ۹. تشکر پایانی ═══════════ -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sorayaua&label=Profile%20Views&color=FF8FAB&style=flat" />
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC2D1&height=100&section=footer&text=Thanks%20for%20visiting%20%F0%9F%92%97&fontSize=20&fontColor=8A4F5E" />
+  <br/><br/>
+  <b>Thanks for visiting 💗</b>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC2D1&height=100&section=footer" />
 </div>
 
 
