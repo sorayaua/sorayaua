@@ -62,7 +62,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sorayaua&theme=rose&hide_border=true&bg_color=FFF0F4&color=FF8FAB&line=FF8FAB&point=8A4F5E" />
 </p>
 
----
+
 
 <!-- ═══════════ ۹. تشکر پایانی ═══════════ -->
 <div align="center">
