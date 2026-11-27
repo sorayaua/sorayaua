@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <!-- ═══════════ دکمه‌های ارتباطی ═══════════ -->
 <p align="center">
-  <a href="https://linkedin.com/in/soraya-balochi"><img src="https://img.shields.io/badge/LinkedIn-FF8FAB?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/soraya-balochi-0b0807452"><img src="https://img.shields.io/badge/LinkedIn-FF8FAB?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:sorayabalochibts@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFB3C6?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://t.me/sorayaua"><img src="https://img.shields.io/badge/Telegram-FFC2D1?style=for-the-badge&logo=telegram&logoColor=8A4F5E"></a>
   <a href="https://github.com/sorayaua"><img src="https://img.shields.io/badge/GitHub-FFB3C6?style=for-the-badge&logo=github&logoColor=white"></a>
