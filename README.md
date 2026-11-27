@@ -45,6 +45,40 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=py,cpp,java,js,ts,react,nodejs,express,django,postgres,mysql,mongodb,docker,git,linux,github,vscode,figma&perline=9" />
 </p>
 
+<table align="center" style="border-collapse: separate; border-spacing: 0 10px; width: 100%; max-width: 600px; font-family: 'Segoe UI', Tahoma, sans-serif;">
+  <tr>
+    <td style="padding: 20px; background: linear-gradient(135deg, #FFF0F4, #FFE4EC); border-radius: 15px; border: 2px solid #FFC2D1; text-align: center; box-shadow: 0 4px 15px rgba(255, 143, 171, 0.2);">
+      
+      <!-- قلب‌های صورتی متحرک -->
+      <div style="font-size: 24px; margin-bottom: 10px;">
+        <span style="display: inline-block; animation: pulse 1.5s infinite;">💗</span>
+        <span style="display: inline-block; animation: pulse 1.5s infinite 0.3s; font-size: 18px;">💖</span>
+        <span style="display: inline-block; animation: pulse 1.5s infinite 0.6s;">💕</span>
+        <span style="display: inline-block; animation: pulse 1.5s infinite 0.9s; font-size: 18px;">💗</span>
+        <span style="display: inline-block; animation: pulse 1.5s infinite 1.2s;">💖</span>
+      </div>
+
+      <h3 style="margin: 10px 0; color: #8A4F5E; font-size: 20px;">🌐 Hamkelas Safar</h3>
+      <p style="margin: 5px 0 15px; color: #A86B7A; font-size: 14px;">پروژه سایت سفر هم‌کلاس</p>
+
+      <a href="https://sorayaua.github.io/hamkelas-safar/" target="_blank" style="display: inline-block; padding: 10px 25px; background: linear-gradient(135deg, #FF8FAB, #FFB3C6); color: white; text-decoration: none; border-radius: 25px; font-weight: bold; font-size: 15px; box-shadow: 0 4px 10px rgba(255, 143, 171, 0.4);">
+        🚀 مشاهده سایت
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- استایل انیمیشن قلب‌ها -->
+<style>
+@keyframes pulse {
+  0% { transform: scale(1); opacity: 0.8; }
+  50% { transform: scale(1.4); opacity: 1; color: #FF8FAB; }
+  100% { transform: scale(1); opacity: 0.8; }
+}
+</style>
+
+
+
 ---
 
 ## 📊 GitHub Stats
