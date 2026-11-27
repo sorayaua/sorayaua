@@ -49,13 +49,16 @@ Here are some ideas to get you started:
   <tr>
     <td style="padding: 20px; background: linear-gradient(135deg, #FFF0F4, #FFE4EC); border-radius: 15px; border: 2px solid #FFC2D1; text-align: center; box-shadow: 0 4px 15px rgba(255, 143, 171, 0.2);">
       
-      <!-- قلب‌های صورتی متحرک -->
-      <div style="font-size: 24px; margin-bottom: 10px;">
-        <span style="display: inline-block; animation: pulse 1.5s infinite;">💗</span>
-        <span style="display: inline-block; animation: pulse 1.5s infinite 0.3s; font-size: 18px;">💖</span>
-        <span style="display: inline-block; animation: pulse 1.5s infinite 0.6s;">💕</span>
-        <span style="display: inline-block; animation: pulse 1.5s infinite 0.9s; font-size: 18px;">💗</span>
-        <span style="display: inline-block; animation: pulse 1.5s infinite 1.2s;">💖</span>
+      
+<table align="center" style="border-collapse: separate; border-spacing: 0 10px; width: 100%; max-width: 600px; font-family: 'Segoe UI', Tahoma, sans-serif;">
+  <tr>
+    <td style="padding: 20px; background: linear-gradient(135deg, #FFF0F4, #FFE4EC); border-radius: 15px; border: 2px solid #FFC2D1; text-align: center; box-shadow: 0 4px 15px rgba(255, 143, 171, 0.2);">
+      
+      <!-- قلب متحرک (GIF) -->
+      <div style="margin-bottom: 10px;">
+        <img src="https://media.giphy.com/media/l4pTdcifPZLpDjqFo/giphy.gif" width="40" alt="heart" />
+        <img src="https://media.giphy.com/media/l4pTdcifPZLpDjqFo/giphy.gif" width="30" alt="heart" />
+        <img src="https://media.giphy.com/media/l4pTdcifPZLpDjqFo/giphy.gif" width="40" alt="heart" />
       </div>
 
       <h3 style="margin: 10px 0; color: #8A4F5E; font-size: 20px;">🌐 Hamkelas Safar</h3>
@@ -67,16 +70,6 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
-
-<!-- استایل انیمیشن قلب‌ها -->
-<style>
-@keyframes pulse {
-  0% { transform: scale(1); opacity: 0.8; }
-  50% { transform: scale(1.4); opacity: 1; color: #FF8FAB; }
-  100% { transform: scale(1); opacity: 0.8; }
-}
-</style>
-
 
 
 ---
