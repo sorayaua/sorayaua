@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 <!-- ═══════════ هدر با اسم ═══════════ -->
 <div align="center">
 
-# 🌸 Soraya 🌸
+#   Soraya 
 ### Computer Engineering Student
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF8FAB&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Soraya+%F0%9F%91%8B;Computer+Engineering+Student;Backend+%7C+AI+Enthusiast;Always+Learning+Something+New+%E2%9C%A8" alt="Typing SVG" />
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <!-- ═══════════ دکمه‌های ارتباطی ═══════════ -->
 <p align="center">
-  <a href="https://linkedin.com/in/sorayaua"><img src="https://img.shields.io/badge/LinkedIn-FF8FAB?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://linkedin.com/in/soraya balochi"><img src="https://img.shields.io/badge/LinkedIn-FF8FAB?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:sorayabalochibts@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFB3C6?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://t.me/sorayaua"><img src="https://img.shields.io/badge/Telegram-FFC2D1?style=for-the-badge&logo=telegram&logoColor=8A4F5E"></a>
   <a href="https://github.com/sorayaua"><img src="https://img.shields.io/badge/GitHub-FFB3C6?style=for-the-badge&logo=github&logoColor=white"></a>
