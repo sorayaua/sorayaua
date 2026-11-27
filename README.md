@@ -24,14 +24,7 @@
 
 ---
 
-<!-- ═══════════ ۵. قلب‌های متحرک رندوم (وسط‌چین) ═══════════ -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sorayaua/sorayaua/main/assets/heart.svg" width="30" />
-  <img src="https://raw.githubusercontent.com/sorayaua/sorayaua/main/assets/heart.svg" width="20" />
-  <img src="https://raw.githubusercontent.com/sorayaua/sorayaua/main/assets/heart.svg" width="35" />
-  <img src="https://raw.githubusercontent.com/sorayaua/sorayaua/main/assets/heart.svg" width="18" />
-  <img src="https://raw.githubusercontent.com/sorayaua/sorayaua/main/assets/heart.svg" width="28" />
-</div>
+
 
 ---
 
