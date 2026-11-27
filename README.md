@@ -19,11 +19,11 @@
   <a href="mailto:sorayabalochibts@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFB3C6?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
----
 
 
 
----
+
+
 
 <!-- ═══════════ ۶. زبان‌هایی که باهاشون کد می‌نویسم ═══════════ -->
 ## 🛠 Languages I Code With
@@ -32,7 +32,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,py,cpp,git,github,vscode&perline=8" />
 </p>
 
----
+
 
 <!-- ═══════════ ۷. پروژه: هم‌کلاس سفر ═══════════ -->
 ## 🚀 Hamkelas Safar
@@ -47,14 +47,14 @@
   یک وب‌سایت برای هماهنگی و همسفر شدن با همدانشجویات💗
 </p>
 
----
+
 
 <!-- ═══════════ ۸. استاتوس و فعالیت گیت‌هاب ═══════════ -->
 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sorayaua&show_icons=true&theme=rose&hide_border=true&include_all_commits=true&count_private=true&title_color=FF8FAB&icon_color=FF8FAB&text_color=8A4F5E&bg_color=FFF0F4" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorayaua&layout=compact&theme=rose&hide_border=true&langs_count=8&title_color=FF8FAB&text_color=8A4F5E&bg_color=FFF0F4" height="165"/>
+  
 </p>
 
 
