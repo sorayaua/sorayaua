@@ -5,85 +5,86 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ═══════════ هدر با اسم ═══════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=180&color=E8B9F0&text=SORAYA&fontSize=70&fontColor=DDA8E9&animation=fadeIn&fontAlignY=50&desc=somewhere%20between%20code%20and%20the%20stars&descSize=15&descAlignY=75" width="100%"/>
+# 🌸 Soraya 🌸
+### Computer Engineering Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=17&duration=3500&pause=1000&color=DDB6F2&center=true&vCenter=true&width=500&lines=welcome+to+my+universe+%E2%9C%A6;computer+engineering+student;dreaming+in+code+%E2%98%BE" />
-
-✦　☾　✧　⋆　♡　⋆　✧　☾　✦
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF8FAB&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Soraya+%F0%9F%91%8B;Computer+Engineering+Student;Backend+%7C+AI+Enthusiast;Always+Learning+Something+New+%E2%9C%A8" alt="Typing SVG" />
 
 </div>
 
----
-
-
-
+<!-- ═══════════ بنر بالا ═══════════ -->
 <div align="center">
-
-### ✧ star systems i'm exploring
-
-<img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode&theme=dark" />
-
-<br>
-
-### ☾ cosmic activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sorayaua&bg_color=0D0B16&color=D9B6F2&line=B58AE0&point=F5C9E7&area=true&hide_border=true" width="100%"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=sorayaua&show_icons=true&hide_border=true&bg_color=0D0B16&title_color=D9B6F2&text_color=C8BED8&icon_color=E8B9F0" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorayaua&layout=compact&hide_border=true&bg_color=0D0B16&title_color=D9B6F2&text_color=C8BED8" width="42%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC2D1&height=120&section=header&text=Welcome%20to%20my%20profile&fontSize=28&fontColor=8A4F5E" />
 </div>
 
----
-
-<div align="center">
-
-✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ
-
-
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=25&duration=2000&pause=500&color=FF69B4&center=true&vCenter=true&width=500&lines=Welcome+to+Soraya's+Galaxy+%E2%99%A1" />
-
-<br>
-
-<img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="100">
-
-<p>
-<font color="#ff69b4">
-♡ ₊˚ ✧ ⋆｡˚ ✩ ♡ ⋆｡˚ ✧ ₊˚ ♡
-</font>
+<!-- ═══════════ دکمه‌های ارتباطی ═══════════ -->
+<p align="center">
+  <a href="https://linkedin.com/in/sorayaua"><img src="https://img.shields.io/badge/LinkedIn-FF8FAB?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:sorayabalochibts@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFB3C6?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://t.me/sorayaua"><img src="https://img.shields.io/badge/Telegram-FFC2D1?style=for-the-badge&logo=telegram&logoColor=8A4F5E"></a>
+  <a href="https://github.com/sorayaua"><img src="https://img.shields.io/badge/GitHub-FFB3C6?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=18&duration=1500&pause=300&color=FFB6D9&center=true&vCenter=true&width=450&lines=%E2%9C%A8+floating+in+my+own+universe+%E2%9C%A8;%E2%99%A1+coding+under+the+stars+%E2%99%A1;%E2%9C%A7+made+of+dreams+and+stardust+%E2%9C%A7" />
+---
 
-<br><br>
+## 🌷 About Me
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d0018&height=120&section=header&text=୨୧%20Soraya%20୨୧&fontColor=ffb6d9&fontSize=35&animation=twinkling" width="100%">
+- 🎓 Computer Engineering Student
+- 💻 Currently learning: **System Design** & **Cloud**
+- 🔭 Working on academic & personal projects
+- 🌱 Always learning something new
+- 🎧 Hobbies: coding, music, reading
 
-<br>
+---
 
-<img src="https://img.shields.io/badge/♡-pink-ff69b4?style=for-the-badge">
-<img src="https://img.shields.io/badge/✦-stardust-c084fc?style=for-the-badge">
-<img src="https://img.shields.io/badge/☾-dreamer-9370db?style=for-the-badge">
+## 💗 Tech Stack
 
-<br><br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,js,ts,react,nodejs,express,django,postgres,mysql,mongodb,docker,git,linux,github,vscode,figma&perline=9" />
+</p>
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sorayaua&show_icons=true&theme=rose&hide_border=true&include_all_commits=true&count_private=true&title_color=FF8FAB&icon_color=FF8FAB&text_color=8A4F5E&bg_color=FFF0F4" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorayaua&layout=compact&theme=rose&hide_border=true&langs_count=8&title_color=FF8FAB&text_color=8A4F5E&bg_color=FFF0F4" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sorayaua&theme=rose&hide_border=true&background=FFF0F4&ring=FF8FAB&fire=FF8FAB&currStreakLabel=8A4F5E" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sorayaua&theme=rose&hide_border=true&bg_color=FFF0F4&color=FF8FAB&line=FF8FAB&point=8A4F5E" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sorayaua&theme=rose&no-frame=true&row=1&column=6&margin-w=10" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sorayaua/sorayaua/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sorayaua&label=Profile%20Views&color=FF8FAB&style=flat" />
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC2D1&height=100&section=footer&text=Thanks%20for%20visiting%20%F0%9F%92%97&fontSize=20&fontColor=8A4F5E" />
 </div>
 
 
