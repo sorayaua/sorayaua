@@ -63,24 +63,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sorayaua&theme=rose&hide_border=true&bg_color=FFF0F4&color=FF8FAB&line=FF8FAB&point=8A4F5E" />
 </p>
 
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sorayaua&theme=rose&no-frame=true&row=1&column=6&margin-w=10" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sorayaua/sorayaua/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sorayaua&label=Profile%20Views&color=FF8FAB&style=flat" />
   <br/>
