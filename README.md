@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 #   Soraya 
-### Computer Engineering Student
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF8FAB&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Soraya+%F0%9F%91%8B;Computer+Engineering+Student;Backend+%7C+AI+Enthusiast;Always+Learning+Something+New+%E2%9C%A8" alt="Typing SVG" />
 
