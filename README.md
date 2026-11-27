@@ -11,9 +11,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF8FAB&center=true&vCenter=true&width=520&lines=Welcome+to+my+profile+%F0%9F%91%8B;Computer+Engineering+Student;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  Computer Engineering Student · Always Learning Something New 💗
-</p>
 
 <!-- ═══════════ ۴. راه‌های ارتباطی ═══════════ -->
 <p align="center">
@@ -47,13 +44,13 @@
 </p>
 
 <p align="center">
-  یک وب‌سایت برای هماهنگی و برنامه‌ریزی سفرهای گروهی هم‌کلاسی‌ها. 💗
+  یک وب‌سایت برای هماهنگی و همسفر شدن با همدانشجویات💗
 </p>
 
 ---
 
 <!-- ═══════════ ۸. استاتوس و فعالیت گیت‌هاب ═══════════ -->
-## 📊 GitHub Stats
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sorayaua&show_icons=true&theme=rose&hide_border=true&include_all_commits=true&count_private=true&title_color=FF8FAB&icon_color=FF8FAB&text_color=8A4F5E&bg_color=FFF0F4" height="165"/>
